@@ -2,7 +2,7 @@
 
 ### 🚀 About this project
  - This project is about a personal finance control. 
- - This project is a ReactJS SPA project created with create-react-app containing typescript.
+ - This project is a ReactJS SPA project created with create-react-app.
 
 ### 📋 Technologies and libraries
  - ReactJS
