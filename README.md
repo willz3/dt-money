@@ -1,4 +1,6 @@
-# Ignite - ReactJS Trail
+<h1 align="center"> Ignite - ReactJS Trail</h1>
+
+![ignite_never_stop_learning](https://user-images.githubusercontent.com/26603179/151886861-d64aee9d-6333-4b98-b00b-a02251f77256.png)
 
 ### 🚀 About this project
  - This project is about a personal finance control. 
